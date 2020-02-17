@@ -1,0 +1,25 @@
+.nav{
+    background-color: royalblue;
+    display: inline-block;
+    height: 50px;
+}
+
+.content{
+    background-color: skyblue;
+}
+
+.first-col{
+    float: left;
+    background-color: transparent;
+    width: 20%;
+}
+
+.second-col{
+    background-color: transparent;
+}
+
+.third-col{
+    float: right;
+    background-color: transparent;
+    width: 25%;
+}
